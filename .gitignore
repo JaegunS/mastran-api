@@ -1,0 +1,4 @@
+venv
+src/credentials.json
+src/token.json
+src/__pycache__
